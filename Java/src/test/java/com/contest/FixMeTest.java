@@ -8,6 +8,6 @@ public class FixMeTest {
 
     @Test
     public void should_fix_me() {
-        assertEquals(5, FixMe.getResult());
+        assertEquals(7, FixMe.getResult());
     }
 }
